@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "4975 E. 12th Drive",
+        "info_city": "Bellingham",
+        "info_state": "WA",
+        "info_zip": 98226,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Hughes",
+        "info_maidenName": "",
+        "info_firstName": "Robert",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "Neuro",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/1999",
+        "info_residencyEnd": "6/30/2004",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "Northwest Radiologists",
+        "info_position": "Private Practice",
+        "info_count": 1,
+        "info_resDate": 2004,
+        "info_felDate": 1900,
+        "info_date": 2004,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4240952,
+          48.8215027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_address": "6567 Washington Circle",
+        "info_city": "Wauwatosa",
+        "info_state": "WI",
+        "info_zip": 53526,
+        "info_country": "",
+        "info_notes": "",
+        "info_lastName": "Keller",
+        "info_maidenName": "",
+        "info_firstName": "Patrick",
+        "info_middleName": "",
+        "info_intern": "",
+        "info_resident": "r",
+        "info_fellow": "f",
+        "info_fellowshipSection": "MSK",
+        "info_honoraryFellow": "",
+        "info_formerFaculty": "",
+        "info_facultySection": "",
+        "info_residencyBegin": "7/1/1999",
+        "info_residencyEnd": "6/30/2004",
+        "info_fellowshipBegin": "",
+        "info_fellowshipEnd": "",
+        "info_institution": "St. Joseph's Hospital",
+        "info_position": "Radiologist",
+        "info_count": 1,
+        "info_resDate": 2004,
+        "info_felDate": 1900,
+        "info_date": 2004,
+        "info_status": "rf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9938126,
+          43.0525208
+        ]
+      }
+    }
+  ]
+}
